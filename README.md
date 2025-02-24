@@ -33,7 +33,7 @@ This directory contains various resources that assist with academic writing, inc
 
 For detailed writing tips, refer to the following guide:
 
-- [Paper Writing Tips](writing-resources\writing-tips\paper-writing-tips.md)  
+- [Paper Writing Tips](writing-resources/writing-tips/paper-writing-tips.md)  
 
 ---
 
